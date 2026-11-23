@@ -1,0 +1,12 @@
+{
+  "lmc": {
+    "absorption_catalog": "../../data/Fulldata.csv",
+    "emission_spectra_dir": "../../../LMC_GASKAP_emi_all_abs",
+    "thin_column_catalog": "../../../output_data/LMC_fitting/NHI_uncorr.csv",
+    "emission_cube": "../../../LMC_gaskap_emi/LMC_new.fits"
+  },
+  "tigress": {
+    "emission_cube": "../../data/test_z.fits",
+    "truth_file": "../../data/fcnm_RHI_z.fits"
+  }
+}
